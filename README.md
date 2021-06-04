@@ -12,4 +12,3 @@ Comments:
 - I am struggling to get both methods to work correctly. 
 - TCL version does not scale and cannot recover sources too well as I increase the complexity of the mixing model. 
 - iVAE works well for a small latent space but does not do well at larger sizes.
-- 
